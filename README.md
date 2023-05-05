@@ -10,6 +10,6 @@
 
 # 목차
 ## 📝Java
--https://github.com/kimjinsub1217/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%B4%EB%9E%80.md
+-[https://github.com/kimjinsub1217/TIL/blob/main/Java/객체지향이란.md](https://github.com/kimjinsub1217/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%B4%EB%9E%80.md)
 ## 📝Kotlin
 ## 📝Android

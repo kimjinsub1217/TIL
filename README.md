@@ -23,8 +23,11 @@
 - [추상클래스.md](https://github.com/kimjinsub1217/TIL/blob/main/Java/10.%20%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - [인터페이스.md](https://github.com/kimjinsub1217/TIL/blob/main/Java/11.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 - [내부클래스, 익명클래스](https://github.com/kimjinsub1217/TIL/blob/main/Java/12.%20%EB%82%B4%EB%B6%80%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+- [컬렉션.md](https://github.com/kimjinsub1217/TIL/blob/main/Java/13.%20%EC%BB%AC%EB%A0%89%EC%85%98.md)
+- [쓰레드.md](https://github.com/kimjinsub1217/TIL/blob/main/Java/14.%20%EC%93%B0%EB%A0%88%EB%93%9C.md)
 ## 📝Kotlin
 ## 📝Android
 ## 📝오늘 나는 무엇을 했는가
 - [230505.md](https://github.com/kimjinsub1217/TIL/blob/main/%EC%98%A4%EB%8A%98%20%EB%82%98%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%84%20%ED%96%88%EB%8A%94%EA%B0%80/230505.md)
 - [230506.md](https://github.com/kimjinsub1217/TIL/blob/main/%EC%98%A4%EB%8A%98%20%EB%82%98%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%84%20%ED%96%88%EB%8A%94%EA%B0%80/230506.md)
+- [230507.md](https://github.com/kimjinsub1217/TIL/blob/main/%EC%98%A4%EB%8A%98%20%EB%82%98%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%84%20%ED%96%88%EB%8A%94%EA%B0%80/2305067.md)
